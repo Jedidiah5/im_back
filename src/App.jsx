@@ -1,6 +1,8 @@
+import Form from './componets/form'
+
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div>
       <Form />
     </div>
   )
